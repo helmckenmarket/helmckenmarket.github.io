@@ -155,7 +155,7 @@ hr.small {
     position: relative;
     width: 100%;
     height: 100%;
-    background: url(../img/bg.jpg) no-repeat center center scroll;
+    background: url(../img/header.jpg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -166,6 +166,12 @@ hr.small {
 
 .about {
     padding: 50px 0;
+}
+
+.img-main-logo {
+    opacity: 0.8;
+    width: 200px;
+    height: 200px;
 }
 
 /* Services */
@@ -191,22 +197,22 @@ hr.small {
     background-size: cover;
     -o-background-size: cover;
 }
+>
+/* Specials */
 
-/* Portfolio */
-
-.portfolio {
+.specials {
     padding: 50px 0;
 }
 
-.portfolio-item {
+.specials-item {
     margin-bottom: 30px;
 }
 
-.img-portfolio {
+.img-specials {
     margin: 0 auto;
 }
 
-.img-portfolio:hover {
+.img-specials:hover {
     opacity: 0.8;
 }
 
@@ -224,6 +230,15 @@ hr.small {
 
 .map {
     height: 500px;
+}
+
+/* Our Story */
+.ourstory {
+    /*height: 500px; */
+    /*background: url(../img/old-store.jpg) no-repeat center center scroll;*/
+    background: url(https://lh3.googleusercontent.com/h2IDHi1YsRrhHc3315WG-5jxXIhueVx1gAyO8r84Fu5HawvPVNhKW621zpT3nOlak37rgfmLditlVmkniRVvd9czABTWkpTVozh2l_SUYD2SoIZNJ5IDrh-7Mni5tVSRLPNG3SQf2RXZsMdybN0Cz0LRfdBYF6bNPzMXut41dkj5h73bosQvwguNsIfVNhZQ9YgBN9tqNL8an37u2mJ4_iuk7nWhlrY_c6B2jLTkxhvXLLbY3qsPWLiFXR3asRHZWT3M0hsEwxSsQir5WlNvmIskB1ewHCHBA5QXtKMSgb4adsjFygLD5nO_GbRwMBbxDXhMDGzH05PpPtWIj8T3J9XLxtUbnJARptG4C_6MxFgJgeyFsJewgE2lLE56sj42AnlYc4HpEGBsUj8cq1eF9CcPMOGMl1Tjz5tVc4G1n2-HeIiS82vRJ2ha6u9Zzxkgf25RMzIA2TOT8Aqb6wHY7dbJx9QX-t3NBzTPnWTnnM-pI8tnDd1OePWWN94W0S1ImeRb4c8zXqJvi2tYMObasUfjbIzBDNjtthGRyAJ3__hkN2lx5o-pFqSTg2zuAlCCr9obR2nXQgbMdAjdL86dEL0ryQv3gJaymEBkSx_JwTq6hho=w2424-h1004-no) no-repeat center center scroll;
+    /*background-image: url(../img/old-store.jpg);*/*/*/*/*/*/*/*/*/
+    /*background-size: 100%;*/
 }
 
 @media(max-width:768px) {
