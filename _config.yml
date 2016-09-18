@@ -1,28 +1,28 @@
 # Site settings
-title:
+title: Helmcken Market
 email:
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome to Helmcken Market, the premier locally-owned and operated
+  grocers in Victoria, BC!
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 # User setting
-owner:
-email:
-facebook_username:
-twitter_username:
+owner: Helmcken Market
+email: helmckenprice@yahoo.ca
+facebook_username: HelmckenMarket
+twitter_username: helmckenmarket
 github_username:
 address:
-  - line:
-  - line:
+  - line: 38 Helmcken Road
+  - line: Victoria, BC V8Z 5G7
   # Feel free to add more lines here 
-telephone:
+hours: 9:00am to 9:00pm Daily
+telephone: +1 250-479-1818
 copyright:
 
 # API settings
-google_api_key:
+google_api_key: "AIzaSyCzENpC5tqfhGi4x89dYSPswJA_MOMcYAA"
 
 # Build settings
 markdown: kramdown
