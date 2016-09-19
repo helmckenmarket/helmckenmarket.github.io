@@ -212,8 +212,7 @@ hr.small {
     margin: 0 auto;
 }
 
-.img-specials:hover {
-    opacity: 0.8;
+.specials-caption {
 }
 
 /* Call to Action */

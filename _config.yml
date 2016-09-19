@@ -26,3 +26,14 @@ google_api_key: "AIzaSyCzENpC5tqfhGi4x89dYSPswJA_MOMcYAA"
 
 # Build settings
 markdown: kramdown
+
+# Specials
+specials:
+  - caption: "Breakfast Sandwiches: $2 each"
+    image: "specials/sandwiches.jpg"
+  - caption: "Baguettes: $1.29 each"
+    image: "specials/bread.jpg"
+  - caption: "Oranges: 89c/lb"
+    image: "specials/oranges.jpg"
+  - caption: "Pinklady Apples: 4 for $1.00"
+    image: "specials/apples.jpg"
