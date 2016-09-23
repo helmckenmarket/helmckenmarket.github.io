@@ -23,6 +23,7 @@ copyright:
 
 # API settings
 google_api_key: "AIzaSyCzENpC5tqfhGi4x89dYSPswJA_MOMcYAA"
+google_analytics_tracking_id: "UA-84655012-1"
 
 # Build settings
 markdown: kramdown
